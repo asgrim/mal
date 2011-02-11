@@ -6,10 +6,10 @@ ZF built-in functionality, but these are mainly just me messing around!
 
 INSTALLATION
 ----------------------------
-1. Put MAL in library/MAL/*
-2. Add this to application.ini
+1. cd yoursite/library
+2. git clone git://github.com/Asgrim/MAL.git
+3. Add this line to your application.ini
 
     autoloaderNamespaces[] = "MAL_"
 
-3. Drink some wine (you'll need it...)
-
+4. Drink some wine (you'll need it...)
