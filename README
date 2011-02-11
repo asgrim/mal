@@ -1,1 +1,15 @@
-Hello!
+MAL
+----------------------------
+Mighty Asgrim's Library. Just a collection of lib classes for Zend Framework
+I've made that sort of make my life easier. Some of them may actually overlap
+ZF built-in functionality, but these are mainly just me messing around!
+
+INSTALLATION
+----------------------------
+1. Put MAL in library/MAL/*
+2. Add this to application.ini
+
+    autoloaderNamespaces[] = "MAL_"
+
+3. Drink some wine (you'll need it...)
+
