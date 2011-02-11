@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @license GNU GPL v3, see LICENSE for more details
+ */
 class MAL_Ebay_Service_Trading extends MAL_Ebay_Service
 {
 	const ARG_KEYWORDS = "__arg_ebay_trading_keywords";

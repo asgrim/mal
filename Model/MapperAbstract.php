@@ -16,6 +16,7 @@
 	 *   - delete()
 	 *
 	 * @author hello@jamestitcumb.com
+	 * @license GNU GPL v3, see LICENSE for more details
 	 */
 	abstract class MAL_Model_MapperAbstract
 	{

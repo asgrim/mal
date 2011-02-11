@@ -7,6 +7,7 @@
  *   autoloaderNamespaces[] = "MAL_"
  * 
  * @author hello@jamestitcumb.com
+ * @license GNU GPL v3, see LICENSE for more details
  * 
  * @example
  *   $server = APPLICATION_ENV == "production" ? MAL_Ebay_Engine::USING_LIVE : MAL_Ebay_Engine::USING_SANDBOX;

@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @license GNU GPL v3, see LICENSE for more details
+ */
 abstract class MAL_Ebay_Service
 {
 	private $_endpoint;

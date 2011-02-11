@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @license GNU GPL v3, see LICENSE for more details
+ */
 class MAL_Ebay_Service_Finding extends MAL_Ebay_Service
 {
 	const ARG_KEYWORDS = "__arg_ebay_finding_keywords";
