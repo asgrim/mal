@@ -4,6 +4,8 @@ Mighty Asgrim's Library. Just a collection of lib classes for Zend Framework
 I've made that sort of make my life easier. Some of them may actually overlap
 ZF built-in functionality, but these are mainly just me messing around!
 
+Released under The BSD License (see LICENSE for details)
+
 INSTALLATION
 ----------------------------
 1. cd yoursite/library

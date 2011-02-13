@@ -15,8 +15,9 @@
 	 *   - fetchAll($where, $order, $limit, $offset)
 	 *   - delete()
 	 *
-	 * @author hello@jamestitcumb.com
-	 * @license GNU GPL v3, see LICENSE for more details
+	 * @author James Titcumb <hello@jamestitcumb.com>
+	 * @license https://github.com/Asgrim/MAL/raw/master/LICENSE The BSD License
+	 * @copyright Copyright (c) 2011, James Titcumb
 	 */
 	abstract class MAL_Model_MapperAbstract
 	{

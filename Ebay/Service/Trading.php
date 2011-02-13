@@ -1,7 +1,9 @@
 <?php
 
 /**
- * @license GNU GPL v3, see LICENSE for more details
+ * @author James Titcumb <hello@jamestitcumb.com>
+ * @license https://github.com/Asgrim/MAL/raw/master/LICENSE The BSD License
+ * @copyright Copyright (c) 2011, James Titcumb
  */
 class MAL_Ebay_Service_Trading extends MAL_Ebay_Service
 {
