@@ -15,3 +15,11 @@ INSTALLATION
     autoloaderNamespaces[] = "MAL_"
 
 4. Drink some wine (you'll need it...)
+
+FUTURE STUFF
+----------------------------
+Stuff I may or may not add in the future:
+
+ o A basic eCommerce system (models/mappers/Db_Tables/actions/etc.)
+ o A basic HTML CMS (models/mappers/Db_Tables/actions/etc.)
+
