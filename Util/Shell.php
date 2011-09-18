@@ -9,8 +9,8 @@
  */
 class MAL_Util_Shell
 {
-	private $_last_output;
-	private $_last_errno;
+	protected $_last_output;
+	protected $_last_errno;
 
 	public function getLastError()
 	{
