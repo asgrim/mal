@@ -17,7 +17,12 @@ class MAL_Util_Shell
 		return $this->_last_errno;
 	}
 
-	protected function Exec($cmd, $noisy = false)
+	public function getLastOutput()
+	{
+		return $this->_last_output;
+	}
+
+	public function Exec($cmd, $noisy = false)
 	{
 		if($noisy) echo "<strong>Command: " . $cmd . "</strong><br /><br />";
 
