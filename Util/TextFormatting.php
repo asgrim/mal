@@ -28,4 +28,18 @@
 
 			return $slug;
 		}
+		
+		/**
+		 * Reverse of self::MakeSlug 
+		 * 
+		 * @param string $value 
+		 * @return string
+		 */
+		public static function UnmakeSlug($value)
+		{
+			$plain_text = ucfirst($value);
+			$plain_text = preg_replace("/[-]/", " ", $plain_text);
+			
+			return $plain_text;
+		}
 	}
