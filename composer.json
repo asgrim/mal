@@ -1,0 +1,10 @@
+{
+	"name": "asgrim/mal",
+	"description": "Mighty Asgrim's Library",
+	"type": "library",
+	"homepage": "http://www.asgrim.com/",
+	"license": "BSD-3-Clause",
+	"require": {
+		"php": ">= 5.2"
+	}
+}
