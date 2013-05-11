@@ -9,10 +9,10 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"GD": "."
+			"GD": "library/"
 		}
 	},
 	"include-path": [
-		"."
+		"library/"
 	]
 }
