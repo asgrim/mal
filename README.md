@@ -1,12 +1,10 @@
-MAL
+MAL - Mighty Asgrim's Library
 ----------------------------
-Mighty Asgrim's Library. Just a collection of lib classes for Zend Framework 1
-I've made that sort of make my life easier. Some of them may actually overlap
-ZF built-in functionality, but these are mainly just me messing around!
+Just a collection of lib classes for Zend Framework 1 I've made that sort of make my life easier. These are mainly just me messing around!
 
 Released under The BSD License (see LICENSE for details)
 
-INSTALLATION
+Installation
 ----------------------------
 1. Add `asgrim/mal` to your `composer.json`
 2. Run `php composer.phar update` or `php composer.phar install`
@@ -16,7 +14,7 @@ INSTALLATION
 
 4. Drink some wine (you'll need it...)
 
-FUTURE STUFF
+Future Stuff
 ----------------------------
 Stuff I may or may not add in the future:
 
